@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "immersivegeology:normal_ore_anatase"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_anatase",
+    "count": 2
+  }
+}

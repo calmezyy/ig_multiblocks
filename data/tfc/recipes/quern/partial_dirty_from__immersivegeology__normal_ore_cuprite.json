@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "immersivegeology:normal_ore_cuprite"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_cuprite",
+    "count": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "immersivegeology:rich_ore_thorite"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_thorite",
+    "count": 3
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "immersivegeology:rich_ore_acanthite"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_acanthite",
+    "count": 3
+  }
+}
