@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tfc:ore/rich_native_copper"
+      "item": "immersivegeology:rich_ore_alumina"
     },
     {
-      "item": "tfc:ore/rich_native_copper"
+      "item": "immersivegeology:rich_ore_alumina"
     },
     {
       "tag": "forge:hammer"
     }
   ],
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_copper",
+    "item": "immersivegeology:partial_dirty_crushed_ore_alumina",
     "count": 3
   }
 }

@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "tfc:ore/poor_native_silver"
+      "item": "immersivegeology:poor_ore_fluorite"
     },
     {
-      "item": "tfc:ore/poor_native_silver"
+      "item": "immersivegeology:poor_ore_fluorite"
     },
     {
       "tag": "forge:hammer"
     }
   ],
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_silver",
+    "item": "immersivegeology:partial_dirty_crushed_ore_fluorite",
     "count": 1
   }
 }
