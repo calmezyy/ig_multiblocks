@@ -1,0 +1,27 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "immersivegeology:rich_ore_zircon"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_zircon",
+    "count": 3
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "immersivegeology:partial_dirty_crushed_ore_zircon",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "immersivegeology:partial_dirty_crushed_ore_zircon",
+        "count": 1
+      }
+    }
+  ]
+}

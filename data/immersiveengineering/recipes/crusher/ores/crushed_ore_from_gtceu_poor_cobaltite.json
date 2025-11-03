@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_cobaltite"
+  },
+  "result": {
+    "item": "gtceu:crushed_cobaltite_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_cobaltite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

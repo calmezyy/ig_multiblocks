@@ -1,0 +1,34 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:rich_raw_electrotine"
+  },
+  "result": {
+    "item": "gtceu:crushed_electrotine_ore",
+    "count": 5
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_electrotine_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_electrotine_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_electrotine_ore",
+        "count": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:raw_granitic_mineral_sand"
+  },
+  "result": {
+    "item": "gtceu:crushed_granitic_mineral_sand_ore",
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_granitic_mineral_sand_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_granitic_mineral_sand_ore",
+        "count": 1
+      }
+    }
+  ]
+}

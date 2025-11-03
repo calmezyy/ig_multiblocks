@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_kyanite"
+  },
+  "result": {
+    "item": "gtceu:crushed_kyanite_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_kyanite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

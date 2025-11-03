@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_chromite"
+  },
+  "result": {
+    "item": "gtceu:crushed_chromite_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_chromite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

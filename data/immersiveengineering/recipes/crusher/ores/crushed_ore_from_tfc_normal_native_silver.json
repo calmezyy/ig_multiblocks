@@ -1,0 +1,27 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "tfc:ore/normal_native_silver"
+  },
+  "result": {
+    "item": "gtceu:crushed_silver_ore",
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_silver_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_silver_ore",
+        "count": 1
+      }
+    }
+  ]
+}

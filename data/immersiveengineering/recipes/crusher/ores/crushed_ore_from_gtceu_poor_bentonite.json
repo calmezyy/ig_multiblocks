@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_bentonite"
+  },
+  "result": {
+    "item": "gtceu:crushed_bentonite_ore",
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_bentonite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

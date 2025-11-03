@@ -1,0 +1,34 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:rich_raw_lazurite"
+  },
+  "result": {
+    "item": "gtceu:crushed_lazurite_ore",
+    "count": 6
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_lazurite_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_lazurite_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_lazurite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:raw_emerald"
+  },
+  "result": {
+    "item": "gtceu:crushed_emerald_ore",
+    "count": 3
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_emerald_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_emerald_ore",
+        "count": 1
+      }
+    }
+  ]
+}

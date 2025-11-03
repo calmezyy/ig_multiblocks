@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_fullers_earth"
+  },
+  "result": {
+    "item": "gtceu:crushed_fullers_earth_ore",
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_fullers_earth_ore",
+        "count": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "tfc:ore/poor_cassiterite"
+  },
+  "result": {
+    "item": "gtceu:crushed_cassiterite_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_cassiterite_ore",
+        "count": 1
+      }
+    }
+  ]
+}

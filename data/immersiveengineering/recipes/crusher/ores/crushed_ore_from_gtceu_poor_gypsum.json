@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_gypsum"
+  },
+  "result": {
+    "item": "gtceu:crushed_gypsum_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_gypsum_ore",
+        "count": 1
+      }
+    }
+  ]
+}

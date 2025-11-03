@@ -1,0 +1,34 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:rich_raw_sulfur"
+  },
+  "result": {
+    "item": "gtceu:crushed_sulfur_ore",
+    "count": 3
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_sulfur_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_sulfur_ore",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "gtceu:crushed_sulfur_ore",
+        "count": 1
+      }
+    }
+  ]
+}

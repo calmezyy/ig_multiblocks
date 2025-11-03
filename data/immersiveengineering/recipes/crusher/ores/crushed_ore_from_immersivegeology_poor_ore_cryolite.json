@@ -1,0 +1,26 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "immersivegeology:poor_ore_cryolite"
+  },
+  "result": {
+    "item": "immersivegeology:partial_dirty_crushed_ore_cryolite"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "immersivegeology:partial_dirty_crushed_ore_cryolite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "immersivegeology:partial_dirty_crushed_ore_cryolite",
+        "count": 1
+      }
+    }
+  ]
+}

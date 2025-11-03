@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "gtceu:poor_raw_bismuth"
+  },
+  "result": {
+    "item": "gtceu:crushed_bismuth_ore"
+  },
+  "secondaries": [
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "gtceu:crushed_bismuth_ore",
+        "count": 1
+      }
+    }
+  ]
+}
