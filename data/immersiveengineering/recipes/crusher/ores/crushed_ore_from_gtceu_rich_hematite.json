@@ -1,28 +1,34 @@
 {
-	"type":"immersiveengineering:crusher",
-	"energy":6000,
-	"input":{"item":"tfc:ore/rich_hematite"},
-	"result":{"item":"gtceu:crushed_hematite_ore"},
-	"secondaries":
-	[
-        {
-            "chance": 0.33,
-            "output": {
-                "item": "gtceu:crushed_hematite_ore"
-            }
-        },
-		{
-            "chance": 0.165,
-            "output": {
-                "item": "gtceu:crushed_hematite_ore"
-            }
-        },
-        {
-            "chance": 0.165,
-            "output": {
-                "item": "gtceu:crushed_hematite_ore"
-            }
-        }
-    ]
-	
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "item": "tfc:ore/rich_hematite"
+  },
+  "result": {
+    "item": "tfc:ore/rich_hematite",
+    "count": 0
+  },
+  "secondaries": [
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfc:ore/rich_hematite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.33,
+      "output": {
+        "item": "tfc:ore/rich_hematite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.165,
+      "output": {
+        "item": "tfc:ore/rich_hematite",
+        "count": 1
+      }
+    }
+  ]
 }

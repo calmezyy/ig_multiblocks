@@ -5,21 +5,21 @@
     "item": "gtceu:raw_yellow_limonite"
   },
   "result": {
-    "item": "gtceu:crushed_yellow_limonite_ore",
-    "count": 2
+    "item": "gtceu:crushed_crushed_yellow_limonite",
+    "count": 1
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.25,
       "output": {
-        "item": "gtceu:crushed_yellow_limonite_ore",
+        "item": "gtceu:crushed_crushed_yellow_limonite",
         "count": 1
       }
     },
     {
-      "chance": 0.165,
+      "chance": 0.12,
       "output": {
-        "item": "gtceu:crushed_yellow_limonite_ore",
+        "item": "gtceu:crushed_crushed_yellow_limonite",
         "count": 1
       }
     }

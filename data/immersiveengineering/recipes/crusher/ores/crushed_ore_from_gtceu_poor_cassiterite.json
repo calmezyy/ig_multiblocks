@@ -5,14 +5,28 @@
     "item": "gtceu:poor_raw_cassiterite"
   },
   "result": {
-    "item": "gtceu:crushed_cassiterite_ore",
-    "count": 2
+    "item": "gtceu:crushed_poor_crushed_cassiterite",
+    "count": 0
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.5,
       "output": {
-        "item": "gtceu:crushed_cassiterite_ore",
+        "item": "gtceu:crushed_poor_crushed_cassiterite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "gtceu:crushed_poor_crushed_cassiterite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.12,
+      "output": {
+        "item": "gtceu:crushed_poor_crushed_cassiterite",
         "count": 1
       }
     }

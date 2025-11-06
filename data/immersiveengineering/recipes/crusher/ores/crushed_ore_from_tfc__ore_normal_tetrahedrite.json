@@ -2,24 +2,24 @@
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "item": "tfc__ore:normal_tetrahedrite"
+    "item": "tfc:ore/normal_tetrahedrite"
   },
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_tetrahedrite",
-    "count": 2
+    "item": "gtceu:crushed_tetrahedrite_ore",
+    "count": 1
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.25,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_tetrahedrite",
+        "item": "gtceu:crushed_tetrahedrite_ore",
         "count": 1
       }
     },
     {
-      "chance": 0.165,
+      "chance": 0.12,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_tetrahedrite",
+        "item": "gtceu:crushed_tetrahedrite_ore",
         "count": 1
       }
     }

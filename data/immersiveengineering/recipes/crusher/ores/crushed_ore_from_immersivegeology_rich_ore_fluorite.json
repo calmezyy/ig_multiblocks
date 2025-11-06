@@ -5,21 +5,28 @@
     "item": "immersivegeology:rich_ore_fluorite"
   },
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_fluorite",
-    "count": 3
+    "item": "immersivegeology:dirty_crushed_ore_fluorite",
+    "count": 1
   },
   "secondaries": [
     {
+      "chance": 0.5,
+      "output": {
+        "item": "immersivegeology:dirty_crushed_ore_fluorite",
+        "count": 1
+      }
+    },
+    {
       "chance": 0.33,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_fluorite",
+        "item": "immersivegeology:dirty_crushed_ore_fluorite",
         "count": 1
       }
     },
     {
       "chance": 0.165,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_fluorite",
+        "item": "immersivegeology:dirty_crushed_ore_fluorite",
         "count": 1
       }
     }

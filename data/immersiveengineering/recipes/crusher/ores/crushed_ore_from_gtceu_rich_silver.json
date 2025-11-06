@@ -5,28 +5,28 @@
     "item": "gtceu:rich_raw_silver"
   },
   "result": {
-    "item": "gtceu:crushed_silver_ore",
-    "count": 3
+    "item": "gtceu:crushed_rich_crushed_silver",
+    "count": 0
   },
   "secondaries": [
     {
+      "chance": 0.5,
+      "output": {
+        "item": "gtceu:crushed_rich_crushed_silver",
+        "count": 1
+      }
+    },
+    {
       "chance": 0.33,
       "output": {
-        "item": "gtceu:crushed_silver_ore",
+        "item": "gtceu:crushed_rich_crushed_silver",
         "count": 1
       }
     },
     {
       "chance": 0.165,
       "output": {
-        "item": "gtceu:crushed_silver_ore",
-        "count": 1
-      }
-    },
-    {
-      "chance": 0.165,
-      "output": {
-        "item": "gtceu:crushed_silver_ore",
+        "item": "gtceu:crushed_rich_crushed_silver",
         "count": 1
       }
     }

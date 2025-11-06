@@ -2,24 +2,24 @@
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "item": "tfc__ore:normal_cassiterite"
+    "item": "tfc:ore/normal_cassiterite"
   },
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_cassiterite",
-    "count": 2
+    "item": "gtceu:crushed_cassiterite_ore",
+    "count": 1
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.25,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_cassiterite",
+        "item": "gtceu:crushed_cassiterite_ore",
         "count": 1
       }
     },
     {
-      "chance": 0.165,
+      "chance": 0.12,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_cassiterite",
+        "item": "gtceu:crushed_cassiterite_ore",
         "count": 1
       }
     }

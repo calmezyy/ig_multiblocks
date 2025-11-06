@@ -5,20 +5,28 @@
     "item": "immersivegeology:poor_ore_alumina"
   },
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_alumina"
+    "item": "immersivegeology:dirty_crushed_ore_alumina",
+    "count": 0
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.5,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_alumina",
+        "item": "immersivegeology:dirty_crushed_ore_alumina",
         "count": 1
       }
     },
     {
-      "chance": 0.165,
+      "chance": 0.25,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_alumina",
+        "item": "immersivegeology:dirty_crushed_ore_alumina",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.12,
+      "output": {
+        "item": "immersivegeology:dirty_crushed_ore_alumina",
         "count": 1
       }
     }

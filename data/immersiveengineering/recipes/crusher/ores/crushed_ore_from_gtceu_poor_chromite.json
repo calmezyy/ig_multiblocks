@@ -5,13 +5,28 @@
     "item": "gtceu:poor_raw_chromite"
   },
   "result": {
-    "item": "gtceu:crushed_chromite_ore"
+    "item": "gtceu:crushed_poor_crushed_chromite",
+    "count": 0
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.5,
       "output": {
-        "item": "gtceu:crushed_chromite_ore",
+        "item": "gtceu:crushed_poor_crushed_chromite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "gtceu:crushed_poor_crushed_chromite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.12,
+      "output": {
+        "item": "gtceu:crushed_poor_crushed_chromite",
         "count": 1
       }
     }

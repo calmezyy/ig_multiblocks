@@ -5,20 +5,28 @@
     "item": "immersivegeology:poor_ore_cuprite"
   },
   "result": {
-    "item": "immersivegeology:partial_dirty_crushed_ore_cuprite"
+    "item": "immersivegeology:dirty_crushed_ore_cuprite",
+    "count": 0
   },
   "secondaries": [
     {
-      "chance": 0.33,
+      "chance": 0.5,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_cuprite",
+        "item": "immersivegeology:dirty_crushed_ore_cuprite",
         "count": 1
       }
     },
     {
-      "chance": 0.165,
+      "chance": 0.25,
       "output": {
-        "item": "immersivegeology:partial_dirty_crushed_ore_cuprite",
+        "item": "immersivegeology:dirty_crushed_ore_cuprite",
+        "count": 1
+      }
+    },
+    {
+      "chance": 0.12,
+      "output": {
+        "item": "immersivegeology:dirty_crushed_ore_cuprite",
         "count": 1
       }
     }

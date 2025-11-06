@@ -2,24 +2,24 @@
   "type": "immersiveengineering:crusher",
   "energy": 6000,
   "input": {
-    "item": "gtceu:raw_neodymium"
+    "item": "tfc:ore/normal_sphalerite"
   },
   "result": {
-    "item": "gtceu:crushed_neodymium_ore",
+    "item": "gtceu:crushed_sphalerite_ore",
     "count": 1
   },
   "secondaries": [
     {
       "chance": 0.25,
       "output": {
-        "item": "gtceu:crushed_neodymium_ore",
+        "item": "gtceu:crushed_sphalerite_ore",
         "count": 1
       }
     },
     {
       "chance": 0.12,
       "output": {
-        "item": "gtceu:crushed_neodymium_ore",
+        "item": "gtceu:crushed_sphalerite_ore",
         "count": 1
       }
     }
