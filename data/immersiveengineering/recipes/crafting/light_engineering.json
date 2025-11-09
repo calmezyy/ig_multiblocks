@@ -1,0 +1,39 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "category":"misc",
+  "key": {
+    "C": {
+      "item": "kubejs:engineering"
+    },
+    "G": {
+      "item": "create:electron_tube"
+    },
+    "A": {
+      "item": "gtceu:raw_diamond"
+    },
+    "B": {
+      "item": "gtceu:black_steel_rod"
+    },
+    "D": {
+      "item": "create:precision_mechanism"
+    },
+    "E": {
+      "item": "gtceu:wrought_iron_plate"
+    },
+    "I": {
+      "item": "gtceu:small_steel_gear"
+    }
+  },
+  "pattern": [
+    " EEE ",
+    "EBABE",
+    "EGCGE",
+    "EIDIE",
+	" EEE "
+  ],
+  "result": {
+	"count":4,
+    "item": "immersiveengineering:light_engineering"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"category":"misc",
+	"key":{
+		"c":{"item":"gtceu:steel_machine_casing"},
+		"g":{"item":"immersiveengineering:component_iron"},
+		"i":{"tag":"forge:sheetmetals/iron"}},
+		"pattern":["igi","gcg","igi"],
+		"result":{"count":1,"item":"immersivegeology:engineering"},
+		"show_notification":true
+}

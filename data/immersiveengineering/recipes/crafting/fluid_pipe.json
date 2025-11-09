@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category":"misc",
+  "ingredients": [
+    {
+      "item": "gtceu:steel_huge_fluid_pipe"
+    }
+  ],
+  "result": {
+    "item": "immersiveengineering:fluid_pipe",
+    "count": 1
+  }
+}

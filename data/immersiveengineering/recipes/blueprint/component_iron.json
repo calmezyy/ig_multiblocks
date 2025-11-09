@@ -1,0 +1,10 @@
+{
+	"type":"immersiveengineering:blueprint",
+	"category":"components",
+	"inputs":
+	[
+		{"base_ingredient":{"item":"gtceu:double_wrought_iron_plate"},"count":2},
+		{"item":"gtceu:double_copper_plate"}
+	],
+	"result":{"item":"immersiveengineering:component_iron"}
+}
