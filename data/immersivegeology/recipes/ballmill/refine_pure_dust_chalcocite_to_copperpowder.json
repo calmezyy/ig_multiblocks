@@ -1,0 +1,11 @@
+{
+    "type": "immersivegeology:ballmill",
+    "energy": 16000,
+    "input": {
+        "item": "gtceu:pure_chalcocite_dust"
+    },
+    "result": {
+        "item": "immersivegeology:powder_chalcocite"
+    },
+    "time": 200
+}
